@@ -1,0 +1,12 @@
+D:\Documents\AxceligentPreTest\1-SumOfBiggestNeighbor\bin\Debug\1-SumOfBiggestNeighbor.exe.config
+D:\Documents\AxceligentPreTest\1-SumOfBiggestNeighbor\bin\Debug\1-SumOfBiggestNeighbor.exe
+D:\Documents\AxceligentPreTest\1-SumOfBiggestNeighbor\bin\Debug\1-SumOfBiggestNeighbor.pdb
+D:\Documents\AxceligentPreTest\1-SumOfBiggestNeighbor\obj\Debug\1-SumOfBiggestNeighbor.csprojAssemblyReference.cache
+D:\Documents\AxceligentPreTest\1-SumOfBiggestNeighbor\obj\Debug\1-SumOfBiggestNeighbor.exe
+D:\Documents\AxceligentPreTest\1-SumOfBiggestNeighbor\obj\Debug\1-SumOfBiggestNeighbor.pdb
+D:\Workspace\My Projects\AxceligentPreTest\1-SumOfBiggestNeighbor\bin\Debug\1-SumOfBiggestNeighbor.exe.config
+D:\Workspace\My Projects\AxceligentPreTest\1-SumOfBiggestNeighbor\bin\Debug\1-SumOfBiggestNeighbor.exe
+D:\Workspace\My Projects\AxceligentPreTest\1-SumOfBiggestNeighbor\bin\Debug\1-SumOfBiggestNeighbor.pdb
+D:\Workspace\My Projects\AxceligentPreTest\1-SumOfBiggestNeighbor\obj\Debug\1-SumOfBiggestNeighbor.csprojAssemblyReference.cache
+D:\Workspace\My Projects\AxceligentPreTest\1-SumOfBiggestNeighbor\obj\Debug\1-SumOfBiggestNeighbor.exe
+D:\Workspace\My Projects\AxceligentPreTest\1-SumOfBiggestNeighbor\obj\Debug\1-SumOfBiggestNeighbor.pdb

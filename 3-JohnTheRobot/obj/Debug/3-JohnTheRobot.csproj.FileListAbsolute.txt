@@ -1,0 +1,6 @@
+D:\Workspace\My Projects\AxceligentPreTest\3-JohnTheRobot\bin\Debug\3-JohnTheRobot.exe.config
+D:\Workspace\My Projects\AxceligentPreTest\3-JohnTheRobot\bin\Debug\3-JohnTheRobot.exe
+D:\Workspace\My Projects\AxceligentPreTest\3-JohnTheRobot\bin\Debug\3-JohnTheRobot.pdb
+D:\Workspace\My Projects\AxceligentPreTest\3-JohnTheRobot\obj\Debug\3-JohnTheRobot.csprojAssemblyReference.cache
+D:\Workspace\My Projects\AxceligentPreTest\3-JohnTheRobot\obj\Debug\3-JohnTheRobot.exe
+D:\Workspace\My Projects\AxceligentPreTest\3-JohnTheRobot\obj\Debug\3-JohnTheRobot.pdb

@@ -1,0 +1,6 @@
+D:\Workspace\My Projects\AxceligentPreTest\2-UserClass\bin\Debug\2-UserClass.exe.config
+D:\Workspace\My Projects\AxceligentPreTest\2-UserClass\bin\Debug\2-UserClass.exe
+D:\Workspace\My Projects\AxceligentPreTest\2-UserClass\bin\Debug\2-UserClass.pdb
+D:\Workspace\My Projects\AxceligentPreTest\2-UserClass\obj\Debug\2-UserClass.csprojAssemblyReference.cache
+D:\Workspace\My Projects\AxceligentPreTest\2-UserClass\obj\Debug\2-UserClass.exe
+D:\Workspace\My Projects\AxceligentPreTest\2-UserClass\obj\Debug\2-UserClass.pdb

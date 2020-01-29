@@ -1,0 +1,6 @@
+D:\AxceligentPreTest\4-AlexaSettings\obj\Debug\4-AlexaSettings.csprojAssemblyReference.cache
+D:\AxceligentPreTest\4-AlexaSettings\bin\Debug\4-AlexaSettings.exe.config
+D:\AxceligentPreTest\4-AlexaSettings\bin\Debug\4-AlexaSettings.exe
+D:\AxceligentPreTest\4-AlexaSettings\bin\Debug\4-AlexaSettings.pdb
+D:\AxceligentPreTest\4-AlexaSettings\obj\Debug\4-AlexaSettings.exe
+D:\AxceligentPreTest\4-AlexaSettings\obj\Debug\4-AlexaSettings.pdb
